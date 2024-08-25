@@ -1,5 +1,6 @@
 Hi. My name is Ioan Ciulei, using Jhon Choulay as it's the closest sounding english name.
 I am 17 boy living in Romania, passioned about art, animation and music mainly.
+I have worked on sprites and sound design.
 Realisticly speaking, there are two projects.
 First, the game. I worked with my friend to make a game in Godot, as C++ was the coding language we learn in school at this moment. 
 Running the game should be as easy as downloading the game from his fork here: https://github.com/FattestCatto/the-hackathon-game and running the game.exe,
